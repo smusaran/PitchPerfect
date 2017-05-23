@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4DA26789CE94669C7155AB5C7DEA2B42494F4912",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4DA26789CE94669C7155AB5C7DEA2B42494F4912" : 9223372036854775807,
+    "460DABF1A4DB85BD016D7C05EB9258867E41360F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "377F39E6-D7E5-4A26-BA52-B2B62A0B6C86",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4DA26789CE94669C7155AB5C7DEA2B42494F4912" : "Click%20Counter\/",
+    "460DABF1A4DB85BD016D7C05EB9258867E41360F" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Click Counter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Click Counter\/Click Counter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/smusaran\/PitchPerfect.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "460DABF1A4DB85BD016D7C05EB9258867E41360F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/smusaran\/Click-Counter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4DA26789CE94669C7155AB5C7DEA2B42494F4912"
+    }
+  ]
+}
